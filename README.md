@@ -1,3 +1,9 @@
 # PageRank.py
 
-Code that was collaboratively created during CS 4362 (Data Mining) that I modified to handle different factors as well as being more dynamic and allowing for optional printing/plotting.
+Code that was collaboratively created during CS 4362 (Data Mining) then later modified by me.
+
+## My Modifications:
+- Added Dead-End and Spider Trap checking
+- Added threshold, damping factor, and teleportation boolean
+- Made the code dynamic
+- Allowed optional printing and plotting
